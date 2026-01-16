@@ -14,8 +14,8 @@ and geometric admissibility conditions.
 
 The routines in this repository support the numerical results of the article:
 
-> *[Title of the article]*  
-> *Authors*  
+> *[A geometric framework for mesh size equivalence in mineral screening]*  
+> *Gómez, S*  
 > *Journal, Year*
 
 They are used to:
