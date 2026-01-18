@@ -1,7 +1,7 @@
 # MATLAB source code — Probability of passage and size equivalence
 
 This directory contains the MATLAB source code used in the article  
-“[Title of the paper]”.
+“A geometric framework for mesh size equivalence in mineral screening”.
 
 The routines implement the geometric and probabilistic framework developed
 to compute particle passage probabilities through screen openings of different
