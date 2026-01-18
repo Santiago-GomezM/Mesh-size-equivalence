@@ -29,14 +29,6 @@ derived through Minkowski erosion.
 
 ## Repository structure
 
-.
-├── src/ # Core MATLAB routines
-├── README.md # This file
-└── LICENSE
-
-css
-Copiar código
-
 - The `src/` directory contains all MATLAB implementations used in the article.
 - Each function is documented at a high level in `src/README.md`.
 
