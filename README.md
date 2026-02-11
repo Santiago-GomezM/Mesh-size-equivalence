@@ -3,7 +3,7 @@
 This repository contains the MATLAB code and supplementary material associated
 with the article:
 
-**“A geometric framework for mesh size equivalence in mineral screening”**
+**“A geometric–probabilistic framework for size equivalence in mineral screening”**
 
 ## Overview
 
