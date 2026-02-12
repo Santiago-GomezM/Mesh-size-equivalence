@@ -1,7 +1,7 @@
 # Probability–based size equivalence for screening apertures
 
 This repository contains the MATLAB code and supplementary material associated
-with the article:
+with the paper:
 
 **“A geometric–probabilistic framework for size equivalence in mineral screening”**
 
@@ -14,12 +14,12 @@ geometries (square, rectangular, hexagonal, circular), which are not
 geometrically equivalent when particles are anisotropic.
 
 This work develops a geometric and probabilistic framework to:
-- model particle passage as a function of particle shape, orientation, and
+- Model particle passage as a function of particle shape, orientation, and
   aperture geometry,
-- compute passage probabilities for ellipsoidal particles,
-- define probability–preserving size equivalence between different opening
+- Compute passage probabilities for ellipsoidal particles,
+- Define probability–preserving size equivalence between different opening
   geometries,
-- correct fragment size distributions obtained from heterogeneous screening
+- Correct fragment size distributions obtained from heterogeneous screening
   systems.
 
 Particles are modeled as triaxial ellipsoids with uniformly distributed
@@ -41,5 +41,6 @@ the proposed methodology.
 
 ## Citation
 
-If you use this code, please cite the associated article. A DOI-linked archive
-(e.g. Zenodo) may be provided for long-term preservation.
+If you use this code, please cite the associated article. 
+[Zenodo DOI](https://doi.org/10.5281/zenodo.18618666)
+
