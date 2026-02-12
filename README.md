@@ -46,5 +46,5 @@ the proposed methodology.
 ## Citation
 
 If you use this code, please cite the associated article. 
-[Zenodo DOI](https://doi.org/10.5281/zenodo.18618666)
+[Zenodo DOI](https://doi.org/10.5281/zenodo.18623011)
 
