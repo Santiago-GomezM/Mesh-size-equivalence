@@ -11,6 +11,10 @@ authors:
     given-names: "Santiago"
     orcid: "https://orcid.org/0000-0003-4796-4125"
 
+  - family-names: "Herrero"
+    given-names: "Jaime"
+    orcid: "https://orcid.org/0009-0008-5674-7513"
+
   - family-names: "Sanchidrián"
     given-names: "José Angel"
     orcid: "https://orcid.org/0000-0003-1848-8465"
@@ -18,10 +22,6 @@ authors:
   - family-names: "Segarra"
     given-names: "Pablo"
     orcid: "https://orcid.org/0000-0002-5093-2741"
-
-  - family-names: "Herrero"
-    given-names: "Jaime"
-    orcid: "https://orcid.org/0009-0008-5674-7513"
 
   - family-names: "Zhang"
     given-names: "Zongxian"
