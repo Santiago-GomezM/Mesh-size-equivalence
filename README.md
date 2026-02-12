@@ -5,6 +5,10 @@ with the paper:
 
 **“A geometric–probabilistic framework for size equivalence in mineral screening”**
 
+This work has been developed within the framework of the AVANTIS project (Grant Agreement No. 101137552). AVANTIS addresses the challenge that Europe hosts numerous unexploited, low-grade vanadium-bearing titanomagnetite deposits located in Finland, Sweden, Greenland, Norway, Poland, and Ukraine. These deposits are characterized by complex, “spiderweb-like” mineral assemblages which make conventional extraction routes economically unfeasible. Without selective blasting, selective fragmentation, and efficient pre-concentration technologies capable of separating Ti-rich ilmenite from V-bearing magnetite, their exploitation remains limited.
+
+The geometric–probabilistic framework and MATLAB implementations provided in this repository contribute to the objectives of AVANTIS by enabling rigorous fragment size characterization and improved interpretation of screening-based measurements. Such quantitative tools are essential for assessing fragmentation quality, mineral liberation, and the downstream efficiency of pre-concentration and beneficiation processes within the project.
+
 ## Overview
 
 In screening–based size characterization, particle size is inferred from the
