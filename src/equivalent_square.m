@@ -1,5 +1,6 @@
 function [l,N,it] = equivalent_square(a,b,c,l0,N0,eps)
-%EQUIVALENT_SQUARE estimation of an equivalent square opening and presentation attempts.
+%EQUIVALENT_SQUARE estimation of an equivalent square opening and presentation attempts
+%    for estimating the maximum size of a fragment size distribution.
 %
 %   [l, N, it] = EQUIVALENT_SQUARE(a, b, c, l0, N0, eps) estimates an
 %   equivalent square opening size l and an effective number of presentation
@@ -88,4 +89,5 @@ for it = 1:maxIter
 end
 
 error('Newton did not converge.');
+
 end
