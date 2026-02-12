@@ -1,5 +1,5 @@
 function [X, Y, percepass] = passing_area_Hexagon_intersection(p, a, b, nTheta, nPhi)
-%PASSING_AREA_HEXAGON_INTERSECTION Centroid region valid for all ellipse orientations in a hexagonal aperture.
+%PASSING_AREA_HEXAGON_INTERSECTION Region valid for all ellipse orientations in a hexagonal aperture.
 %
 %   [X, Y, percepass] = PASSING_AREA_HEXAGON_INTERSECTION(p, a, b, nTheta, nPhi)
 %   computes the planar region of ellipse centers for which an ellipse with
@@ -76,3 +76,4 @@ percepass = areaPermissive / hexArea;
 
 
 end
+
