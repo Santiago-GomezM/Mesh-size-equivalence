@@ -1,0 +1,40 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "A geometric–probabilistic framework for size equivalence in mineral screening"
+version: "1.0.0"
+date-released: "2026-02-11"
+license: "MIT"
+
+authors:
+  - family-names: "Gómez"
+    given-names: "Santiago"
+    orcid: "https://orcid.org/0000-0003-4796-4125"
+
+  - family-names: "Sanchidrián"
+    given-names: "José Ángel"
+    orcid: "https://orcid.org/0000-0003-1848-8465"
+
+  - family-names: "Segarra"
+    given-names: "Pablo"
+    orcid: "https://orcid.org/0000-0002-5093-2741"
+
+  - family-names: "Herrero"
+    given-names: "Jaime"
+    orcid: "https://orcid.org/0009-0008-5674-7513"
+
+  - family-names: "Zhang"
+    given-names: "Zongxian"
+    orcid: "https://orcid.org/0000-0002-0618-1442"
+
+repository-code: "https://github.com/Santiago-GomezM/Mesh-size-equivalence"
+url: "https://github.com/Santiago-GomezM/Mesh-size-equivalence"
+
+keywords:
+  - Sieving
+  - Mathematical Morphology
+  - Minkowski Erosion
+  - Particle Size
+  - Granulometric Distribution
+  - Fragment Size Distribution
+  - Mineral Classification
