@@ -35,9 +35,6 @@ function [X, Y, percepass] = passing_area_Hexagon_intersection(p, a, b, nTheta, 
 %   Licensed under the MIT License (see LICENSE file).
 %   If you use this code in academic work, please cite the associated publication.
 
-% Calcula la región donde la elipse E(a,b) cabe en el hexágono
-% para todas las orientaciones theta ∈ [0, 2π].
-
 if nargin < 4, nTheta = 500; end
 if nargin < 5, nPhi = 500; end
 
@@ -76,5 +73,6 @@ Y = r .* sin(phi);
 areaPermissive = polyarea(X, Y);
 hexArea = 2*sqrt(3)*p^2;
 percepass = areaPermissive / hexArea;
+
 
 end
