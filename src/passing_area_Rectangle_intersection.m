@@ -1,5 +1,5 @@
 function [X, Y, rI] = passing_area_Rectangle_intersection(a,b,rect,nTheta,nPsi)
-%PASSING_AREA_RECTANGLE_INTERSECTION Centroid region valid for all ellipse orientations in a rectangular aperture.
+%PASSING_AREA_RECTANGLE_INTERSECTION Region valid for all ellipse orientations in a rectangular aperture.
 %
 %   [X, Y, rI] = PASSING_AREA_RECTANGLE_INTERSECTION(a, b, rect, nTheta, nPsi)
 %   computes the planar region of ellipse centers for which an ellipse with
@@ -141,4 +141,5 @@ function rmax = boundary_rect_polar(rect, psi)
     else
         rmax = min(r_valid);
     end
+
 end
