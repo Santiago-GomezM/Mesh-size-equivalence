@@ -1,5 +1,5 @@
 function [X,Y,rU] = passing_area_Rectangle_union(a,b,rect,nTheta,nPsi)
-%PASSING_AREA_RECTANGLE_UNION Centroid region valid for at least one ellipse orientation in a rectangular aperture.
+%PASSING_AREA_RECTANGLE_UNION Region valid for at least one ellipse orientation in a rectangular aperture.
 %
 %   [X, Y, rU] = PASSING_AREA_RECTANGLE_UNION(a, b, rect, nTheta, nPsi)
 %   computes the planar region of ellipse centers for which an ellipse with
@@ -103,4 +103,5 @@ end
 
 rmax = min([rx,ry]);
 if rmax<0, rmax=0; end
+
 end
