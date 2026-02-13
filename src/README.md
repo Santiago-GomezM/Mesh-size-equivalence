@@ -33,7 +33,7 @@ associated with a projected ellipse of fixed in–plane orientation.
   Area of Dθ for a rotated ellipse inside a regular hexagon.
 
 - **`area_Dtheta_rect.m`**  
-  Area of Dθ for a rotated ellipse inside an axis–aligned rectangle.
+  Area of Dθ for a rotated ellipse inside a rectangle.
 
 - **`area_Dtheta_circ.m`**  
   Area of Dθ for a circular opening (orientation–independent).
