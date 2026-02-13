@@ -21,22 +21,22 @@ associated with a projected ellipse of fixed in–plane orientation.
 
 ### Projection from a 3D ellipsoid
 - **`area_Dabg_hex.m`**  
-  Computes the area of Dαβγ for an ellipsoid passing through a
+  Computes the area of D<sub>αβγ</sub> for an ellipsoid passing through a
   regular hexagonal opening for a given set of Euler angles.
 
 - **`area_Dabg_rect.m`**  
-  Computes the area of Dαβγ for an ellipsoid passing through a
+  Computes the area of D<sub>αβγ</sub> for an ellipsoid passing through a
   hexagonal hexagonal opening for a given set of Euler angles.
 
 ### Fixed in–plane orientation
 - **`area_Dtheta_hex.m`**  
-  Area of Dθ for a rotated ellipse inside a regular hexagon.
+  Area of D<sub>θ</sub> for a rotated ellipse inside a regular hexagon.
 
 - **`area_Dtheta_rect.m`**  
-  Area of Dθ for a rotated ellipse inside a rectangle.
+  Area of D<sub>θ</sub> for a rotated ellipse inside a rectangle.
 
 - **`area_Dtheta_circ.m`**  
-  Area of Dθ for a circular opening (orientation–independent).
+  Area of D<sub>θ</sub> for a circular opening (orientation–independent).
 
 ---
 
@@ -51,7 +51,7 @@ for all orientations and for at least one orientation.
   Restrictive region |D<sup>∩</sup>| for hexagonal openings.
 
 - **`passing_area_Hexagon_union.m`**  
-  Permissive region |D<sup>∪</sup>| for hexagonal openings.
+  Permissive region |D/∪</sup>| for hexagonal openings.
 
 ### Rectangular openings
 - **`passing_area_Rectangle_intersection.m`**  
