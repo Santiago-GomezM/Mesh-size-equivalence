@@ -29,7 +29,7 @@ associated with a projected ellipse of fixed in–plane orientation.
 
 ### Fixed in–plane orientation
 - **`area_Dtheta_hex.m`**  
-  Area of D&theta for a rotated ellipse inside a regular hexagon.
+  Area of Dθ for a rotated ellipse inside a regular hexagon.
 
 - **`area_Dtheta_rect.m`**  
   Area of \(D_\theta\) for a rotated ellipse inside an axis–aligned rectangle.
