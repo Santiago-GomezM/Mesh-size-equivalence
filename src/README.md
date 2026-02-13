@@ -51,7 +51,7 @@ for all orientations and for at least one orientation.
   Restrictive region |D<sup>∩</sup>| for hexagonal openings.
 
 - **`passing_area_Hexagon_union.m`**  
-  Permissive region |D/∪</sup>| for hexagonal openings.
+  Permissive region |D<sup>∪</sup>| for hexagonal openings.
 
 ### Rectangular openings
 - **`passing_area_Rectangle_intersection.m`**  
