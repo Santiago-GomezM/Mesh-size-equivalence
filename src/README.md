@@ -48,7 +48,7 @@ for all orientations and for at least one orientation.
 
 ### Hexagonal openings
 - **`passing_area_Hexagon_intersection.m`**  
-  Restrictive region |D∩| for hexagonal openings.
+  Restrictive region |D<sup>∩</sup>| for hexagonal openings.
 
 - **`passing_area_Hexagon_union.m`**  
   Permissive region |D∪| for hexagonal openings.
